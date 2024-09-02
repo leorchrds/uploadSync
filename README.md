@@ -62,3 +62,30 @@ Certifique-se de ter as seguintes ferramentas instaladas:
     ```
 
 https://github.com/user-attachments/assets/fe0901fa-5f6a-44f2-83a8-b769194a32af
+
+
+
+## Tecnologias Usadas
+
+### Frontend
+
+- **[Next.js](https://nextjs.org/)**: Framework React para criação de aplicações web rápidas e escaláveis.
+- **[React](https://reactjs.org/)**: Biblioteca JavaScript para construir interfaces de usuário.
+- **[Tailwind CSS](https://tailwindcss.com/)**: Framework de CSS utilitário para criar designs modernos e responsivos.
+- **[Framer Motion](https://www.framer.com/api/motion/)**: Biblioteca para animações em React.
+- **[Shadcn/UI](https://github.com/shadcn/ui)**: Conjunto de componentes de UI para React.
+
+### Backend
+
+- **[NestJS](https://nestjs.com/)**: Framework para construção de aplicações server-side eficientes e escaláveis.
+- **[TypeORM](https://typeorm.io/)**: ORM para TypeScript e JavaScript.
+- **[PostgreSQL](https://www.postgresql.org/)**: Sistema de gerenciamento de banco de dados relacional.
+- **[Passport](http://www.passportjs.org/)**: Middleware para autenticação em Node.js.
+- **[JWT](https://jwt.io/)**: Padrão de token para autenticação.
+
+### Outras Ferramentas
+
+- **[Axios](https://axios-http.com/)**: Cliente HTTP baseado em Promises para o navegador e Node.js.
+- **[Prettier](https://prettier.io/)**: Formatter de código.
+- **[ESLint](https://eslint.org/)**: Ferramenta para identificar e relatar padrões problemáticos no código JavaScript.
+
