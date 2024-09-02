@@ -49,9 +49,6 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 2. Instale as dependências:
 
     ```bash
-
-
-
     npm install
     ```
 
@@ -61,9 +58,28 @@ Certifique-se de ter as seguintes ferramentas instaladas:
     npm run dev
     ```
 
-https://github.com/user-attachments/assets/fe0901fa-5f6a-44f2-83a8-b769194a32af
+## Login
 
+Para acessar a aplicação, siga as etapas abaixo:
 
+1. Navegue até a página de login através da seguinte URL:
+
+    ```bash
+    http://localhost:3001/auth/login
+    ```
+
+2. Insira as credenciais de login:
+
+    - **E-mail**: `user@example.com`
+    - **Senha**: `password123`
+
+3. Após o login bem-sucedido, um token JWT será gerado e utilizado para acessar as rotas protegidas da aplicação.
+
+4. Para deslogar, navegue até:
+
+    ```bash
+    http://localhost:3001/auth/logout
+    ```
 
 ## Tecnologias Usadas
 
@@ -88,4 +104,3 @@ https://github.com/user-attachments/assets/fe0901fa-5f6a-44f2-83a8-b769194a32af
 - **[Axios](https://axios-http.com/)**: Cliente HTTP baseado em Promises para o navegador e Node.js.
 - **[Prettier](https://prettier.io/)**: Formatter de código.
 - **[ESLint](https://eslint.org/)**: Ferramenta para identificar e relatar padrões problemáticos no código JavaScript.
-
