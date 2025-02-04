@@ -1,6 +1,9 @@
 # UploadSync
 
+
 UploadSync é um projeto que combina um backend baseado em NestJS e um frontend usando Next.js. O objetivo é fornecer uma aplicação que permite o upload e gerenciamento de dados em tempo real.
+
+https://github.com/user-attachments/assets/8939325a-685a-42be-a22a-645914266e62
 
 ## Estrutura do Projeto
 
